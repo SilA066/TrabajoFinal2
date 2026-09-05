@@ -1,0 +1,29 @@
+{
+  "indice": "IPC Nacional Nivel General (INDEC)",
+  "nota": "Variaciones mensuales e interanuales transcriptas de los informes de prensa del INDEC. Se usan porque los archivos de serie del INDEC (sh_ipc_*.xls) no resultaron accesibles de forma programatica desde el entorno de ejecucion. Ver DECISIONES.md, iteracion 3.",
+  "fuentes": [
+    {
+      "edicion": "julio 2025",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_25B0A3ACE622.pdf",
+      "aporta": "variaciones mensuales e interanuales ago-2024 a jul-2025"
+    },
+    {
+      "edicion": "julio 2026",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_2642C82F62AE.pdf",
+      "aporta": "variaciones mensuales e interanuales ago-2025 a jul-2026"
+    }
+  ],
+  "var_mensual_pct": {
+    "2024-08": 4.2, "2024-09": 3.5, "2024-10": 2.7, "2024-11": 2.4, "2024-12": 2.7,
+    "2025-01": 2.2, "2025-02": 2.4, "2025-03": 3.7, "2025-04": 2.8, "2025-05": 1.5,
+    "2025-06": 1.6, "2025-07": 1.9, "2025-08": 1.9, "2025-09": 2.1, "2025-10": 2.3,
+    "2025-11": 2.5, "2025-12": 2.8, "2026-01": 2.9, "2026-02": 2.9, "2026-03": 3.4,
+    "2026-04": 2.6, "2026-05": 2.1, "2026-06": 1.9, "2026-07": 2.1
+  },
+  "var_interanual_pct": {
+    "2024-08": 236.7, "2024-09": 209.0, "2024-10": 193.0, "2024-11": 166.0, "2024-12": 117.8,
+    "2025-01": 84.5, "2025-02": 66.9, "2025-03": 55.9, "2025-04": 47.3, "2025-05": 43.5,
+    "2025-06": 39.4, "2025-07": 36.6
+  },
+  "ancla": {"mes": "2024-07", "valor": 100.0, "comentario": "Base arbitraria; solo importan los cocientes entre meses."}
+}

@@ -1,0 +1,3082 @@
+{
+  "estado": "ok",
+  "edicion": "2026-07",
+  "generado_utc": "2026-09-05T06:38:26Z",
+  "corte": {
+    "mes_analisis": "2026-07",
+    "mes_corte_tarjetas": "2026-06",
+    "fuente_corte": "nota al pie 1 del PDF",
+    "cita_pdf": "tarjetas de crédito, tarjetas de débito, tarjetas de transporte y tarjetas prepagas que la información corresponde a junio de 2026",
+    "mes_corte_segun_excel": "2026-06",
+    "coincide_con_excel": true
+  },
+  "deflactor": {
+    "indice": "IPC Nacional Nivel General (INDEC)",
+    "mes_base": "2026-06",
+    "valor_base": 178.9768,
+    "fuentes": [
+      "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_25B0A3ACE622.pdf",
+      "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_2642C82F62AE.pdf"
+    ]
+  },
+  "series": [
+    {
+      "pestania": "Tarjetas",
+      "metrica": "Tarjetas de crédito",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 157049909,
+          "monto_nominal": 6164291265507.42,
+          "monto_real": 11036337307149.92,
+          "ticket_promedio_real": 70272.8,
+          "var_ia_cantidad": 17.26,
+          "var_ia_monto_real": null,
+          "participacion": 57.11
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 165561129,
+          "monto_nominal": 6734409411244.48,
+          "monto_real": 11567206310656.83,
+          "ticket_promedio_real": 69866.68,
+          "var_ia_cantidad": 22.85,
+          "var_ia_monto_real": 5.8,
+          "participacion": 60.57
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 162600115,
+          "monto_nominal": 6738707829221.702,
+          "monto_real": 11183178155814.51,
+          "ticket_promedio_real": 68777.18,
+          "var_ia_cantidad": 21.18,
+          "var_ia_monto_real": 6.72,
+          "participacion": 59.99
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 175878570,
+          "monto_nominal": 7485476846236.951,
+          "monto_real": 12095884863907.88,
+          "ticket_promedio_real": 68774.07,
+          "var_ia_cantidad": 21.03,
+          "var_ia_monto_real": -9.1,
+          "participacion": 61.71
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 177273616,
+          "monto_nominal": 8166906264751.24,
+          "monto_real": 12887710959070.46,
+          "ticket_promedio_real": 72699.54,
+          "var_ia_cantidad": 25.72,
+          "var_ia_monto_real": 8.94,
+          "participacion": 63.78
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 185026344,
+          "monto_nominal": 8733149136799.546,
+          "monto_real": 13418953544831.78,
+          "ticket_promedio_real": 72524.56,
+          "var_ia_cantidad": 20.38,
+          "var_ia_monto_real": 16.87,
+          "participacion": 59.35
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 160425941,
+          "monto_nominal": 7298300522152.746,
+          "monto_real": 10972829202456.32,
+          "ticket_promedio_real": 68398.1,
+          "var_ia_cantidad": 11.74,
+          "var_ia_monto_real": 15.25,
+          "participacion": 58.95
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 166044559,
+          "monto_nominal": 7799821545292.103,
+          "monto_real": 11452006522350.43,
+          "ticket_promedio_real": 68969.48,
+          "var_ia_cantidad": 12.87,
+          "var_ia_monto_real": 23.11,
+          "participacion": 62.06
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 184296888,
+          "monto_nominal": 8789630004848.2,
+          "monto_real": 12444823968669.43,
+          "ticket_promedio_real": 67525.96,
+          "var_ia_cantidad": 18.8,
+          "var_ia_monto_real": 28.59,
+          "participacion": 63.1
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 183044543,
+          "monto_nominal": 8618277879012.741,
+          "monto_real": 11869858509804.57,
+          "ticket_promedio_real": 64846.83,
+          "var_ia_cantidad": 21.3,
+          "var_ia_monto_real": 30.54,
+          "participacion": 63.93
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 192592133,
+          "monto_nominal": 9833059029507.8,
+          "monto_real": 13342820799357.39,
+          "ticket_promedio_real": 69280.2,
+          "var_ia_cantidad": 19.51,
+          "var_ia_monto_real": 20.5,
+          "participacion": 65.74
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 173496535,
+          "monto_nominal": 8855074444658.338,
+          "monto_real": 11826534844069.38,
+          "ticket_promedio_real": 68165.83,
+          "var_ia_cantidad": 12.81,
+          "var_ia_monto_real": 13.94,
+          "participacion": 63.57
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 175447969,
+          "monto_nominal": 9089180600805.957,
+          "monto_real": 11912854785717.02,
+          "ticket_promedio_real": 67899.64,
+          "var_ia_cantidad": 11.71,
+          "var_ia_monto_real": 7.94,
+          "participacion": 62.0
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 180406141,
+          "monto_nominal": 9441542855436.422,
+          "monto_real": 12143948023337.03,
+          "ticket_promedio_real": 67314.49,
+          "var_ia_cantidad": 8.97,
+          "var_ia_monto_real": 4.99,
+          "participacion": 63.67
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 175395847,
+          "monto_nominal": 8930795788337.178,
+          "monto_real": 11250746719429.43,
+          "ticket_promedio_real": 64144.89,
+          "var_ia_cantidad": 7.87,
+          "var_ia_monto_real": 0.6,
+          "participacion": 63.99
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 188971620,
+          "monto_nominal": 10010267993480.11,
+          "monto_real": 12327109668381.78,
+          "ticket_promedio_real": 65232.6,
+          "var_ia_cantidad": 7.44,
+          "var_ia_monto_real": 1.91,
+          "participacion": 64.81
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 184682723,
+          "monto_nominal": 10353742691372.982,
+          "monto_real": 12439102818775.94,
+          "ticket_promedio_real": 67353.91,
+          "var_ia_cantidad": 4.18,
+          "var_ia_monto_real": -3.48,
+          "participacion": 65.65
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 182275236,
+          "monto_nominal": 10595343845830.969,
+          "monto_real": 12382650934548.19,
+          "ticket_promedio_real": 67933.81,
+          "var_ia_cantidad": -1.49,
+          "var_ia_monto_real": -7.72,
+          "participacion": 61.91
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 160417260,
+          "monto_nominal": 9242493452066.693,
+          "monto_real": 10497172933468.69,
+          "ticket_promedio_real": 65436.68,
+          "var_ia_cantidad": -0.01,
+          "var_ia_monto_real": -4.33,
+          "participacion": 61.21
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 165961473,
+          "monto_nominal": 9485853573386.64,
+          "monto_real": 10469941186365.32,
+          "ticket_promedio_real": 63086.58,
+          "var_ia_cantidad": -0.05,
+          "var_ia_monto_real": -8.58,
+          "participacion": 63.22
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 183554670,
+          "monto_nominal": 10668984110570.043,
+          "monto_real": 11388600410043.94,
+          "ticket_promedio_real": 62044.73,
+          "var_ia_cantidad": -0.4,
+          "var_ia_monto_real": -8.49,
+          "participacion": 65.25
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 172111423,
+          "monto_nominal": 9892254484893.549,
+          "monto_real": 10291891673828.76,
+          "ticket_promedio_real": 59797.84,
+          "var_ia_cantidad": -5.97,
+          "var_ia_monto_real": -13.29,
+          "participacion": 63.45
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 183836329,
+          "monto_nominal": 11403965190131.549,
+          "monto_real": 11620640528744.05,
+          "ticket_promedio_real": 63211.88,
+          "var_ia_cantidad": -4.55,
+          "var_ia_monto_real": -12.91,
+          "participacion": 65.48
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 176222475,
+          "monto_nominal": 10621654662695.861,
+          "monto_real": 10621654662695.86,
+          "ticket_promedio_real": 60274.12,
+          "var_ia_cantidad": 1.57,
+          "var_ia_monto_real": -10.19,
+          "participacion": 64.01
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjetas",
+      "metrica": "Tarjetas de débito",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 225711472,
+          "monto_nominal": 4210558575162.28,
+          "monto_real": 7538440785078.37,
+          "ticket_promedio_real": 33398.57,
+          "var_ia_cantidad": 14.56,
+          "var_ia_monto_real": null,
+          "participacion": 39.01
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 210314144,
+          "monto_nominal": 4027294245942.54,
+          "monto_real": 6917391054181.53,
+          "ticket_promedio_real": 32890.76,
+          "var_ia_cantidad": 11.83,
+          "var_ia_monto_real": -1.92,
+          "participacion": 36.22
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 198369444,
+          "monto_nominal": 3878495533471.81,
+          "monto_real": 6436531695180.44,
+          "ticket_promedio_real": 32447.19,
+          "var_ia_cantidad": 1.42,
+          "var_ia_monto_real": -8.79,
+          "participacion": 34.53
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 204312747,
+          "monto_nominal": 4148083216200.05,
+          "monto_real": 6702944651320.11,
+          "ticket_promedio_real": 32807.28,
+          "var_ia_cantidad": -7.29,
+          "var_ia_monto_real": -16.04,
+          "participacion": 34.2
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 197689209,
+          "monto_nominal": 4181094852772.1797,
+          "monto_real": 6597938094080.28,
+          "ticket_promedio_real": 33375.31,
+          "var_ia_cantidad": -10.2,
+          "var_ia_monto_real": -14.1,
+          "participacion": 32.65
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 227358537,
+          "monto_nominal": 5307806086579.68,
+          "monto_real": 8155729644036.53,
+          "ticket_promedio_real": 35871.67,
+          "var_ia_cantidad": -10.91,
+          "var_ia_monto_real": -11.37,
+          "participacion": 36.07
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 194542354,
+          "monto_nominal": 4512150635354.02,
+          "monto_real": 6783916078436.62,
+          "ticket_promedio_real": 34871.15,
+          "var_ia_cantidad": -9.02,
+          "var_ia_monto_real": -3.21,
+          "participacion": 36.44
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 177218073,
+          "monto_nominal": 4237266066987.0303,
+          "monto_real": 6221321648744.51,
+          "ticket_promedio_real": 35105.46,
+          "var_ia_cantidad": -13.85,
+          "var_ia_monto_real": -4.92,
+          "participacion": 33.71
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 188671261,
+          "monto_nominal": 4553002342448.931,
+          "monto_real": 6446382003504.49,
+          "ticket_promedio_real": 34167.27,
+          "var_ia_cantidad": -16.62,
+          "var_ia_monto_real": -7.9,
+          "participacion": 32.68
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 176747730,
+          "monto_nominal": 4311930700980.0396,
+          "monto_real": 5938774317007.59,
+          "ticket_promedio_real": 33600.29,
+          "var_ia_cantidad": -13.01,
+          "var_ia_monto_real": -1.61,
+          "participacion": 31.98
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 182664628,
+          "monto_nominal": 4499403308007.27,
+          "monto_real": 6105397299316.52,
+          "ticket_promedio_real": 33424.08,
+          "var_ia_cantidad": -14.49,
+          "var_ia_monto_real": -8.02,
+          "participacion": 30.08
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 175873615,
+          "monto_nominal": 4486196780937.1,
+          "monto_real": 5991611124072.44,
+          "ticket_promedio_real": 34067.71,
+          "var_ia_cantidad": -19.98,
+          "var_ia_monto_real": -15.79,
+          "participacion": 32.21
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 187729125,
+          "monto_nominal": 4961446919153.96,
+          "monto_real": 6502786034385.02,
+          "ticket_promedio_real": 34639.2,
+          "var_ia_cantidad": -16.83,
+          "var_ia_monto_real": -13.74,
+          "participacion": 33.84
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 178053838,
+          "monto_nominal": 4655004900472.25,
+          "monto_real": 5987383463197.89,
+          "ticket_promedio_real": 33626.81,
+          "var_ia_cantidad": -15.34,
+          "var_ia_monto_real": -13.44,
+          "participacion": 31.39
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 168215478,
+          "monto_nominal": 4397879609577.2305,
+          "monto_real": 5540315864630.15,
+          "ticket_promedio_real": 32935.83,
+          "var_ia_cantidad": -15.2,
+          "var_ia_monto_real": -13.92,
+          "participacion": 31.51
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 177372879,
+          "monto_nominal": 4726877746118.2,
+          "monto_real": 5820897143151.8,
+          "ticket_promedio_real": 32817.29,
+          "var_ia_cantidad": -13.19,
+          "var_ia_monto_real": -13.16,
+          "participacion": 30.6
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 174007623,
+          "monto_nominal": 4710116487603.73,
+          "monto_real": 5658786877766.73,
+          "ticket_promedio_real": 32520.34,
+          "var_ia_cantidad": -11.98,
+          "var_ia_monto_real": -14.23,
+          "participacion": 29.87
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 195125382,
+          "monto_nominal": 5810441129696.04,
+          "monto_real": 6790592672750.12,
+          "ticket_promedio_real": 34801.18,
+          "var_ia_cantidad": -14.18,
+          "var_ia_monto_real": -16.74,
+          "participacion": 33.95
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 174291602,
+          "monto_nominal": 5122743085727.16,
+          "monto_real": 5818161553859.11,
+          "ticket_promedio_real": 33381.77,
+          "var_ia_cantidad": -10.41,
+          "var_ia_monto_real": -14.24,
+          "participacion": 33.93
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 160406102,
+          "monto_nominal": 4784783585856.59,
+          "monto_real": 5281169727725.33,
+          "ticket_promedio_real": 32923.75,
+          "var_ia_cantidad": -9.49,
+          "var_ia_monto_real": -15.11,
+          "participacion": 31.89
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 168121237,
+          "monto_nominal": 4946453245997.58,
+          "monto_real": 5280088420960.38,
+          "ticket_promedio_real": 31406.43,
+          "var_ia_cantidad": -10.89,
+          "var_ia_monto_real": -18.09,
+          "participacion": 30.25
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 164300174,
+          "monto_nominal": 4915527208198.82,
+          "monto_real": 5114109591882.84,
+          "ticket_promedio_real": 31126.62,
+          "var_ia_cantidad": -7.04,
+          "var_ia_monto_real": -13.89,
+          "participacion": 31.53
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 169432897,
+          "monto_nominal": 5231263460086.859,
+          "monto_real": 5330657465828.51,
+          "ticket_promedio_real": 31461.76,
+          "var_ia_cantidad": -7.24,
+          "var_ia_monto_real": -12.69,
+          "participacion": 30.04
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 163666044,
+          "monto_nominal": 5188216929217.29,
+          "monto_real": 5188216929217.29,
+          "ticket_promedio_real": 31700.02,
+          "var_ia_cantidad": -6.94,
+          "var_ia_monto_real": -13.41,
+          "participacion": 31.27
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjetas",
+      "metrica": "Tarjetas de débito (dólares)",
+      "moneda": "USD",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": null,
+          "monto_nominal": null,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": null
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 24,
+          "monto_nominal": 2811.53,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 792,
+          "monto_nominal": 432990.32,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 2340,
+          "monto_nominal": 1794761.28,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 4445,
+          "monto_nominal": 3717765.76,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 5060,
+          "monto_nominal": 3950229.74,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 5841,
+          "monto_nominal": 4421063.43,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 7439,
+          "monto_nominal": 5093205.0,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 8538,
+          "monto_nominal": 5616453.96,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 10333,
+          "monto_nominal": 6401050.17,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 10212,
+          "monto_nominal": 6011707.16,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 9703,
+          "monto_nominal": 6092270.0,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 11671,
+          "monto_nominal": 7101824.0,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 11152,
+          "monto_nominal": 6025550.0,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": 46366.67,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 11631,
+          "monto_nominal": 5758573.71,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": 1368.56,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 8965,
+          "monto_nominal": 5175910.17,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": 283.12,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 8948,
+          "monto_nominal": 5441686.24,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": 101.3,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 8716,
+          "monto_nominal": 4914669.42,
+          "monto_real": null,
+          "ticket_promedio_real": null,
+          "var_ia_cantidad": 72.25,
+          "var_ia_monto_real": null,
+          "participacion": 0.0
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjetas",
+      "metrica": "Tarjetas prepagas",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 33613796,
+          "monto_nominal": 419651968928.723,
+          "monto_real": 751330604155.96,
+          "ticket_promedio_real": 22351.85,
+          "var_ia_cantidad": 54.06,
+          "var_ia_monto_real": null,
+          "participacion": 3.89
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 24399244,
+          "monto_nominal": 356367543709.6334,
+          "monto_real": 612106667234.77,
+          "ticket_promedio_real": 25087.12,
+          "var_ia_cantidad": 14.07,
+          "var_ia_monto_real": -8.7,
+          "participacion": 3.21
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 42272159,
+          "monto_nominal": 616645508254.2843,
+          "monto_real": 1023349988240.54,
+          "ticket_promedio_real": 24208.6,
+          "var_ia_cantidad": 97.31,
+          "var_ia_monto_real": 65.91,
+          "participacion": 5.49
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 36908981,
+          "monto_nominal": 496689892482.07434,
+          "monto_real": 802608020296.02,
+          "ticket_promedio_real": 21745.6,
+          "var_ia_cantidad": 57.67,
+          "var_ia_monto_real": -5.17,
+          "participacion": 4.09
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 33225800,
+          "monto_nominal": 456701781227.3154,
+          "monto_real": 720694025392.93,
+          "ticket_promedio_real": 21690.8,
+          "var_ia_cantidad": 59.44,
+          "var_ia_monto_real": -0.9,
+          "participacion": 3.57
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 37451021,
+          "monto_nominal": 674599571991.9297,
+          "monto_real": 1036558539894.64,
+          "ticket_promedio_real": 27677.71,
+          "var_ia_cantidad": 75.04,
+          "var_ia_monto_real": 67.03,
+          "participacion": 4.58
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 37066954,
+          "monto_nominal": 570470830998.3569,
+          "monto_real": 857689947752.65,
+          "ticket_promedio_real": 23138.94,
+          "var_ia_cantidad": 30.48,
+          "var_ia_monto_real": 22.25,
+          "participacion": 4.61
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 34315633,
+          "monto_nominal": 532095532059.55066,
+          "monto_real": 781243707727.84,
+          "ticket_promedio_real": 22766.41,
+          "var_ia_cantidad": 22.66,
+          "var_ia_monto_real": 12.21,
+          "participacion": 4.23
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 35203807,
+          "monto_nominal": 587622187759.0134,
+          "monto_real": 831986634558.19,
+          "ticket_promedio_real": 23633.43,
+          "var_ia_cantidad": 30.25,
+          "var_ia_monto_real": 24.59,
+          "participacion": 4.22
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 38495540,
+          "monto_nominal": 551222096965.7272,
+          "monto_real": 759192078778.79,
+          "ticket_promedio_real": 19721.56,
+          "var_ia_cantidad": 24.41,
+          "var_ia_monto_real": 19.63,
+          "participacion": 4.09
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 38277026,
+          "monto_nominal": 625198279938.647,
+          "monto_real": 848353354561.87,
+          "ticket_promedio_real": 22163.51,
+          "var_ia_cantidad": 15.56,
+          "var_ia_monto_real": 7.67,
+          "participacion": 4.18
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 34142511,
+          "monto_nominal": 587738195313.4572,
+          "monto_real": 784963050226.87,
+          "ticket_promedio_real": 22990.78,
+          "var_ia_cantidad": 23.4,
+          "var_ia_monto_real": 18.6,
+          "participacion": 4.22
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 37080169,
+          "monto_nominal": 609574488230.993,
+          "monto_real": 798946866423.76,
+          "ticket_promedio_real": 21546.47,
+          "var_ia_cantidad": 10.31,
+          "var_ia_monto_real": 6.34,
+          "participacion": 4.16
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 44332906,
+          "monto_nominal": 732409443316.2108,
+          "monto_real": 942043302415.55,
+          "ticket_promedio_real": 21249.3,
+          "var_ia_cantidad": 81.7,
+          "var_ia_monto_real": 53.9,
+          "participacion": 4.94
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 39225353,
+          "monto_nominal": 627176815056.3081,
+          "monto_real": 790098403516.49,
+          "ticket_promedio_real": 20142.54,
+          "var_ia_cantidad": -7.21,
+          "var_ia_monto_real": -22.79,
+          "participacion": 4.49
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 43543658,
+          "monto_nominal": 708057526702.5637,
+          "monto_real": 871934976053.65,
+          "ticket_promedio_real": 20024.39,
+          "var_ia_cantidad": 17.98,
+          "var_ia_monto_real": 8.64,
+          "participacion": 4.58
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 43434002,
+          "monto_nominal": 706221333455.5637,
+          "monto_real": 848462246119.61,
+          "ticket_promedio_real": 19534.52,
+          "var_ia_cantidad": 30.72,
+          "var_ia_monto_real": 17.73,
+          "participacion": 4.48
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 43508589,
+          "monto_nominal": 708365638342.5637,
+          "monto_real": 827858402828.12,
+          "ticket_promedio_real": 19027.47,
+          "var_ia_cantidad": 16.17,
+          "var_ia_monto_real": -20.13,
+          "participacion": 4.14
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 41505677,
+          "monto_nominal": 734557888890.3143,
+          "monto_real": 834274996170.12,
+          "ticket_promedio_real": 20100.26,
+          "var_ia_cantidad": 11.97,
+          "var_ia_monto_real": -2.73,
+          "participacion": 4.86
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 41536232,
+          "monto_nominal": 733547201385.3143,
+          "monto_real": 809647333949.42,
+          "ticket_promedio_real": 19492.56,
+          "var_ia_cantidad": 21.04,
+          "var_ia_monto_real": 3.64,
+          "participacion": 4.89
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 41555970,
+          "monto_nominal": 735634615896.3143,
+          "monto_real": 785252710231.25,
+          "ticket_promedio_real": 18896.27,
+          "var_ia_cantidad": 18.04,
+          "var_ia_monto_real": -5.62,
+          "participacion": 4.5
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 43432321,
+          "monto_nominal": 782605723229.4303,
+          "monto_real": 814222211842.18,
+          "ticket_promedio_real": 18746.92,
+          "var_ia_cantidad": 12.82,
+          "var_ia_monto_real": 7.25,
+          "participacion": 5.02
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 43381609,
+          "monto_nominal": 781883169670.4303,
+          "monto_real": 796738949894.17,
+          "ticket_promedio_real": 18365.82,
+          "var_ia_cantidad": 13.34,
+          "var_ia_monto_real": -6.08,
+          "participacion": 4.49
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 43450657,
+          "monto_nominal": 783970758443.4303,
+          "monto_real": 783970758443.43,
+          "ticket_promedio_real": 18042.78,
+          "var_ia_cantidad": 27.26,
+          "var_ia_monto_real": -0.13,
+          "participacion": 4.72
+        }
+      ]
+    },
+    {
+      "pestania": "TC Modalidad de pago",
+      "metrica": "Un pago",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 133080479,
+          "monto_nominal": 3542521476092.628,
+          "monto_real": 6342409896616.5,
+          "ticket_promedio_real": 47658.45,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 57.47
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 140488174,
+          "monto_nominal": 3985381197088.3677,
+          "monto_real": 6845400051912.59,
+          "ticket_promedio_real": 48725.81,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 59.18
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 138432194,
+          "monto_nominal": 3996875704054.6777,
+          "monto_real": 6632988726898.47,
+          "ticket_promedio_real": 47915.07,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 59.31
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 148903047,
+          "monto_nominal": 4367701624679.694,
+          "monto_real": 7057829054482.73,
+          "ticket_promedio_real": 47398.82,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 58.35
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 149862980,
+          "monto_nominal": 4650808520627.403,
+          "monto_real": 7339165406920.92,
+          "ticket_promedio_real": 48972.5,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 56.95
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 152339111,
+          "monto_nominal": 4903352699457.14,
+          "monto_real": 7534265252689.13,
+          "ticket_promedio_real": 49457.2,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 56.15
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 137606230,
+          "monto_nominal": 4485867894907.97,
+          "monto_real": 6744400574654.39,
+          "ticket_promedio_real": 49012.32,
+          "var_ia_cantidad": 10.18,
+          "var_ia_monto_real": 10.89,
+          "participacion": 61.46
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 142908504,
+          "monto_nominal": 4800829967553.638,
+          "monto_real": 7048768459876.43,
+          "ticket_promedio_real": 49323.65,
+          "var_ia_cantidad": 11.02,
+          "var_ia_monto_real": 14.42,
+          "participacion": 61.55
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 158660908,
+          "monto_nominal": 5366493805212.112,
+          "monto_real": 7598166327590.84,
+          "ticket_promedio_real": 47889.34,
+          "var_ia_cantidad": 16.66,
+          "var_ia_monto_real": 19.82,
+          "participacion": 61.05
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 158771355,
+          "monto_nominal": 5372999347567.665,
+          "monto_real": 7400172392237.41,
+          "ticket_promedio_real": 46608.99,
+          "var_ia_cantidad": 20.68,
+          "var_ia_monto_real": 27.24,
+          "participacion": 62.34
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 164728032,
+          "monto_nominal": 5778449150390.987,
+          "monto_real": 7840979219233.39,
+          "ticket_promedio_real": 47599.54,
+          "var_ia_cantidad": 20.68,
+          "var_ia_monto_real": 24.14,
+          "participacion": 58.77
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 148908190,
+          "monto_nominal": 5416456666204.913,
+          "monto_real": 7234034439191.65,
+          "ticket_promedio_real": 48580.5,
+          "var_ia_cantidad": 14.0,
+          "var_ia_monto_real": 19.24,
+          "participacion": 61.17
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 151971682,
+          "monto_nominal": 5647964727847.86,
+          "monto_real": 7402579681576.26,
+          "ticket_promedio_real": 48710.26,
+          "var_ia_cantidad": 14.2,
+          "var_ia_monto_real": 16.72,
+          "participacion": 62.14
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 157033960,
+          "monto_nominal": 6044036254361.437,
+          "monto_real": 7773990252225.27,
+          "ticket_promedio_real": 49505.15,
+          "var_ia_cantidad": 11.78,
+          "var_ia_monto_real": 13.57,
+          "participacion": 64.02
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 155191743,
+          "monto_nominal": 5912305999812.63,
+          "monto_real": 7448144477619.93,
+          "ticket_promedio_real": 47993.17,
+          "var_ia_cantidad": 12.11,
+          "var_ia_monto_real": 12.29,
+          "participacion": 66.2
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 171322328,
+          "monto_nominal": 7387806641140.48,
+          "monto_real": 9097688766519.92,
+          "ticket_promedio_real": 53102.76,
+          "var_ia_cantidad": 15.06,
+          "var_ia_monto_real": 28.9,
+          "participacion": 73.8
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 167935795,
+          "monto_nominal": 7693555813047.39,
+          "monto_real": 9243124409517.0,
+          "ticket_promedio_real": 55039.63,
+          "var_ia_cantidad": 12.06,
+          "var_ia_monto_real": 25.94,
+          "participacion": 74.31
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 155253378,
+          "monto_nominal": 6550820638382.639,
+          "monto_real": 7655865300855.14,
+          "ticket_promedio_real": 49312.07,
+          "var_ia_cantidad": 1.91,
+          "var_ia_monto_real": 1.61,
+          "participacion": 61.83
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 140245548,
+          "monto_nominal": 6014116893679.1045,
+          "monto_real": 6830540416658.71,
+          "ticket_promedio_real": 48704.15,
+          "var_ia_cantidad": 1.92,
+          "var_ia_monto_real": 1.28,
+          "participacion": 65.07
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 146483657,
+          "monto_nominal": 6319511085864.691,
+          "monto_real": 6975113929780.46,
+          "ticket_promedio_real": 47617.01,
+          "var_ia_cantidad": 2.5,
+          "var_ia_monto_real": -1.04,
+          "participacion": 66.62
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 162509999,
+          "monto_nominal": 7044019709509.283,
+          "monto_real": 7519134429359.35,
+          "ticket_promedio_real": 46268.75,
+          "var_ia_cantidad": 2.43,
+          "var_ia_monto_real": -1.04,
+          "participacion": 66.02
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 152548149,
+          "monto_nominal": 6591559452339.883,
+          "monto_real": 6857851862654.96,
+          "ticket_promedio_real": 44955.33,
+          "var_ia_cantidad": -3.92,
+          "var_ia_monto_real": -7.33,
+          "participacion": 66.63
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 160612258,
+          "monto_nominal": 7144656524314.343,
+          "monto_real": 7280404998276.31,
+          "ticket_promedio_real": 45329.07,
+          "var_ia_cantidad": -2.5,
+          "var_ia_monto_real": -7.15,
+          "participacion": 62.65
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 155309087,
+          "monto_nominal": 6880350177121.556,
+          "monto_real": 6880350177121.56,
+          "ticket_promedio_real": 44301.01,
+          "var_ia_cantidad": 4.3,
+          "var_ia_monto_real": -4.89,
+          "participacion": 64.78
+        }
+      ]
+    },
+    {
+      "pestania": "TC Modalidad de pago",
+      "metrica": "En Cuotas",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 23969429,
+          "monto_nominal": 2621769789414.7935,
+          "monto_real": 4693927410533.43,
+          "ticket_promedio_real": 195829.75,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 42.53
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 25072954,
+          "monto_nominal": 2749028214156.1133,
+          "monto_real": 4721806258744.23,
+          "ticket_promedio_real": 188322.69,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 40.82
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 24167920,
+          "monto_nominal": 2741832125167.026,
+          "monto_real": 4550189428916.04,
+          "ticket_promedio_real": 188273.93,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 40.69
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 26975522,
+          "monto_nominal": 3117775221557.258,
+          "monto_real": 5038055809425.14,
+          "ticket_promedio_real": 186763.97,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 41.65
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 27410635,
+          "monto_nominal": 3516097744123.8364,
+          "monto_real": 5548545552149.54,
+          "ticket_promedio_real": 202423.09,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 43.05
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 32687231,
+          "monto_nominal": 3829796423942.4004,
+          "monto_real": 5884688271552.82,
+          "ticket_promedio_real": 180030.18,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 43.85
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 22819711,
+          "monto_nominal": 2812432732982.781,
+          "monto_real": 4228428786776.62,
+          "ticket_promedio_real": 185297.2,
+          "var_ia_cantidad": 22.17,
+          "var_ia_monto_real": 22.94,
+          "participacion": 38.54
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 23136054,
+          "monto_nominal": 2998991577738.4653,
+          "monto_real": 4403238062473.99,
+          "ticket_promedio_real": 190319.32,
+          "var_ia_cantidad": 25.83,
+          "var_ia_monto_real": 40.14,
+          "participacion": 38.45
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 25635979,
+          "monto_nominal": 3423136199636.09,
+          "monto_real": 4846657641078.59,
+          "ticket_promedio_real": 189056.86,
+          "var_ia_cantidad": 34.05,
+          "var_ia_monto_real": 45.24,
+          "participacion": 38.95
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 24273187,
+          "monto_nominal": 3245278531445.079,
+          "monto_real": 4469686117567.17,
+          "ticket_promedio_real": 184140.88,
+          "var_ia_cantidad": 25.45,
+          "var_ia_monto_real": 36.4,
+          "participacion": 37.66
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 27864100,
+          "monto_nominal": 4054609879116.8145,
+          "monto_real": 5501841580124.0,
+          "ticket_promedio_real": 197452.69,
+          "var_ia_cantidad": 13.06,
+          "var_ia_monto_real": 15.67,
+          "participacion": 41.23
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 24588344,
+          "monto_nominal": 3438617778453.4336,
+          "monto_real": 4592500404877.75,
+          "ticket_promedio_real": 186775.51,
+          "var_ia_cantidad": 6.08,
+          "var_ia_monto_real": 6.5,
+          "participacion": 38.83
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 23476286,
+          "monto_nominal": 3441215872958.096,
+          "monto_real": 4510275104140.75,
+          "ticket_promedio_real": 192120.47,
+          "var_ia_cantidad": -2.06,
+          "var_ia_monto_real": -3.91,
+          "participacion": 37.86
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 23372180,
+          "monto_nominal": 3397506601075.3525,
+          "monto_real": 4369957771112.23,
+          "ticket_promedio_real": 186972.62,
+          "var_ia_cantidad": -6.78,
+          "var_ia_monto_real": -7.45,
+          "participacion": 35.98
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 20204103,
+          "monto_nominal": 3018489788524.536,
+          "monto_real": 3802602241809.49,
+          "ticket_promedio_real": 188209.4,
+          "var_ia_cantidad": -16.4,
+          "var_ia_monto_real": -16.43,
+          "participacion": 33.8
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 17649291,
+          "monto_nominal": 2622461352339.6226,
+          "monto_real": 3229420901861.85,
+          "ticket_promedio_real": 182977.36,
+          "var_ia_cantidad": -34.57,
+          "var_ia_monto_real": -35.9,
+          "participacion": 26.2
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 16746927,
+          "monto_nominal": 2660186878325.573,
+          "monto_real": 3195978409258.92,
+          "ticket_promedio_real": 190839.69,
+          "var_ia_cantidad": -38.9,
+          "var_ia_monto_real": -42.4,
+          "participacion": 25.69
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 27021857,
+          "monto_nominal": 4044523207448.3057,
+          "monto_real": 4726785633693.02,
+          "ticket_promedio_real": 174924.53,
+          "var_ia_cantidad": -17.33,
+          "var_ia_monto_real": -19.68,
+          "participacion": 38.17
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 20171711,
+          "monto_nominal": 3228376558387.5854,
+          "monto_real": 3666632516809.97,
+          "ticket_promedio_real": 181771.01,
+          "var_ia_cantidad": -11.6,
+          "var_ia_monto_real": -13.29,
+          "participacion": 34.93
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 19477818,
+          "monto_nominal": 3166342771442.2256,
+          "monto_real": 3494827569959.77,
+          "ticket_promedio_real": 179426.03,
+          "var_ia_cantidad": -15.81,
+          "var_ia_monto_real": -20.63,
+          "participacion": 33.38
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 21044670,
+          "monto_nominal": 3624964401060.745,
+          "monto_real": 3869465980684.58,
+          "ticket_promedio_real": 183869.16,
+          "var_ia_cantidad": -17.91,
+          "var_ia_monto_real": -20.16,
+          "participacion": 33.98
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 19563274,
+          "monto_nominal": 3300695032553.6523,
+          "monto_real": 3434039811173.79,
+          "ticket_promedio_real": 175535.03,
+          "var_ia_cantidad": -19.4,
+          "var_ia_monto_real": -23.17,
+          "participacion": 33.37
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 23224070,
+          "monto_nominal": 4259308665817.1997,
+          "monto_real": 4340235530467.73,
+          "ticket_promedio_real": 186885.22,
+          "var_ia_cantidad": -16.65,
+          "var_ia_monto_real": -21.11,
+          "participacion": 37.35
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 20913387,
+          "monto_nominal": 3741304485574.2764,
+          "monto_real": 3741304485574.28,
+          "ticket_promedio_real": 178895.19,
+          "var_ia_cantidad": -14.95,
+          "var_ia_monto_real": -18.53,
+          "participacion": 35.22
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjeta de credito por canal",
+      "metrica": "e-commerce",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 47065982,
+          "monto_nominal": 1962721200839.07,
+          "monto_real": 3513989245375.36,
+          "ticket_promedio_real": 74660.91,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 31.84
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 50047892,
+          "monto_nominal": 2178906188382.16,
+          "monto_real": 3742549030431.73,
+          "ticket_promedio_real": 74779.35,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 32.35
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 49077100,
+          "monto_nominal": 2204519466125.66,
+          "monto_real": 3658495747617.5,
+          "ticket_promedio_real": 74545.88,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 32.71
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 54588624,
+          "monto_nominal": 2384291141372.04,
+          "monto_real": 3852808808375.38,
+          "ticket_promedio_real": 70578.97,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 31.85
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 57836340,
+          "monto_nominal": 2979062980266.43,
+          "monto_real": 4701082805890.42,
+          "ticket_promedio_real": 81282.51,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 36.48
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 56534227,
+          "monto_nominal": 2679893939234.64,
+          "monto_real": 4117801232104.54,
+          "ticket_promedio_real": 72837.31,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 30.69
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 51211447,
+          "monto_nominal": 2431916766296.04,
+          "monto_real": 3656331666551.49,
+          "ticket_promedio_real": 71396.77,
+          "var_ia_cantidad": 32.99,
+          "var_ia_monto_real": 29.68,
+          "participacion": 33.32
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 51357696,
+          "monto_nominal": 2560270913923.26,
+          "monto_real": 3759091029836.53,
+          "ticket_promedio_real": 73194.31,
+          "var_ia_cantidad": 29.39,
+          "var_ia_monto_real": 40.44,
+          "participacion": 32.82
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 57017600,
+          "monto_nominal": 2924422518372.41,
+          "monto_real": 4140552381736.59,
+          "ticket_promedio_real": 72618.85,
+          "var_ia_cantidad": 33.31,
+          "var_ia_monto_real": 44.87,
+          "participacion": 33.27
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 53500687,
+          "monto_nominal": 2667612124614.801,
+          "monto_real": 3674072584190.58,
+          "ticket_promedio_real": 68673.37,
+          "var_ia_cantidad": 25.31,
+          "var_ia_monto_real": 37.11,
+          "participacion": 30.95
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 60991332,
+          "monto_nominal": 3428502169428.94,
+          "monto_real": 4652254188612.17,
+          "ticket_promedio_real": 76277.3,
+          "var_ia_cantidad": 26.42,
+          "var_ia_monto_real": 22.84,
+          "participacion": 34.87
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 63075627,
+          "monto_nominal": 3184743567684.04,
+          "monto_real": 4253434684037.19,
+          "ticket_promedio_real": 67433.89,
+          "var_ia_cantidad": 40.96,
+          "var_ia_monto_real": 35.98,
+          "participacion": 35.97
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 64545161,
+          "monto_nominal": 3285914318241.49,
+          "monto_real": 4306727067129.48,
+          "ticket_promedio_real": 66724.24,
+          "var_ia_cantidad": 37.14,
+          "var_ia_monto_real": 22.56,
+          "participacion": 36.15
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 66680299,
+          "monto_nominal": 3477734757921.781,
+          "monto_real": 4473149228448.06,
+          "ticket_promedio_real": 67083.52,
+          "var_ia_cantidad": 33.23,
+          "var_ia_monto_real": 19.52,
+          "participacion": 36.83
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 66705721,
+          "monto_nominal": 3377125855562.01,
+          "monto_real": 4254401124050.21,
+          "ticket_promedio_real": 63778.65,
+          "var_ia_cantidad": 35.92,
+          "var_ia_monto_real": 16.29,
+          "participacion": 37.81
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 69865406,
+          "monto_nominal": 3562365623288.92,
+          "monto_real": 4386862743910.31,
+          "ticket_promedio_real": 62790.2,
+          "var_ia_cantidad": 27.99,
+          "var_ia_monto_real": 13.86,
+          "participacion": 35.59
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 72367124,
+          "monto_nominal": 4187928348231.121,
+          "monto_real": 5031424179076.77,
+          "ticket_promedio_real": 69526.38,
+          "var_ia_cantidad": 25.12,
+          "var_ia_monto_real": 7.03,
+          "participacion": 40.42
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 68016073,
+          "monto_nominal": 3744147718879.54,
+          "monto_real": 4375740412474.94,
+          "ticket_promedio_real": 64333.92,
+          "var_ia_cantidad": 20.31,
+          "var_ia_monto_real": 6.26,
+          "participacion": 35.34
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 60355979,
+          "monto_nominal": 3543753362394.1,
+          "monto_real": 4024822097146.73,
+          "ticket_promedio_real": 66684.73,
+          "var_ia_cantidad": 17.86,
+          "var_ia_monto_real": 10.08,
+          "participacion": 38.34
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 64919940,
+          "monto_nominal": 3632034695470.521,
+          "monto_real": 4008831609535.18,
+          "ticket_promedio_real": 61750.39,
+          "var_ia_cantidad": 26.41,
+          "var_ia_monto_real": 6.64,
+          "participacion": 38.29
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 73887695,
+          "monto_nominal": 4157734146683.61,
+          "monto_real": 4438170712135.84,
+          "ticket_promedio_real": 60066.44,
+          "var_ia_cantidad": 29.59,
+          "var_ia_monto_real": 7.19,
+          "participacion": 38.97
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 68999431,
+          "monto_nominal": 3745063564810.03,
+          "monto_real": 3896360387764.79,
+          "ticket_promedio_real": 56469.46,
+          "var_ia_cantidad": 28.97,
+          "var_ia_monto_real": 6.05,
+          "participacion": 37.86
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 76985452,
+          "monto_nominal": 4647716520030.971,
+          "monto_real": 4736023133911.56,
+          "ticket_promedio_real": 61518.42,
+          "var_ia_cantidad": 26.22,
+          "var_ia_monto_real": 1.8,
+          "participacion": 40.76
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 73279540,
+          "monto_nominal": 4089567648758.871,
+          "monto_real": 4089567648758.87,
+          "ticket_promedio_real": 55807.77,
+          "var_ia_cantidad": 16.18,
+          "var_ia_monto_real": -3.85,
+          "participacion": 38.5
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjeta de credito por canal",
+      "metrica": "POS+QR",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 67101430,
+          "monto_nominal": 2673802463713.96,
+          "monto_real": 4787084939894.82,
+          "ticket_promedio_real": 71341.03,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 43.38
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 70412830,
+          "monto_nominal": 2834408463569.79,
+          "monto_real": 4868457716877.19,
+          "ticket_promedio_real": 69141.63,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 42.09
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 69637796,
+          "monto_nominal": 2822732762038.97,
+          "monto_real": 4684447547532.57,
+          "ticket_promedio_real": 67268.75,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 41.89
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 76343585,
+          "monto_nominal": 3252682924403.6,
+          "monto_real": 5256055019683.07,
+          "ticket_promedio_real": 68847.37,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 43.45
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 75033017,
+          "monto_nominal": 3255991178145.98,
+          "monto_real": 5138086789405.17,
+          "ticket_promedio_real": 68477.68,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 39.87
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 83160810,
+          "monto_nominal": 4003188369043.37,
+          "monto_real": 6151114324733.75,
+          "ticket_promedio_real": 73966.5,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 45.84
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 67892034,
+          "monto_nominal": 2992217190598.13,
+          "monto_real": 4498730638650.43,
+          "ticket_promedio_real": 66263.01,
+          "var_ia_cantidad": 8.22,
+          "var_ia_monto_real": 4.13,
+          "participacion": 41.0
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 72196854,
+          "monto_nominal": 3257989379747.92,
+          "monto_real": 4783508880295.07,
+          "ticket_promedio_real": 66256.47,
+          "var_ia_cantidad": 14.21,
+          "var_ia_monto_real": 18.05,
+          "participacion": 41.77
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 80979415,
+          "monto_nominal": 3724514588926.23,
+          "monto_real": 5273365136230.05,
+          "ticket_promedio_real": 65119.82,
+          "var_ia_cantidad": 18.69,
+          "var_ia_monto_real": 24.53,
+          "participacion": 42.37
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 80255594,
+          "monto_nominal": 3762123960351.699,
+          "monto_real": 5181531592810.03,
+          "ticket_promedio_real": 64562.87,
+          "var_ia_cantidad": 23.38,
+          "var_ia_monto_real": 29.87,
+          "participacion": 43.65
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 82917169,
+          "monto_nominal": 4052887744205.811,
+          "monto_real": 5499504755190.8,
+          "ticket_promedio_real": 66325.28,
+          "var_ia_cantidad": 21.25,
+          "var_ia_monto_real": 20.97,
+          "participacion": 41.22
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 66924629,
+          "monto_nominal": 3391307893529.79,
+          "monto_real": 4529314939186.27,
+          "ticket_promedio_real": 67677.85,
+          "var_ia_cantidad": 1.34,
+          "var_ia_monto_real": -0.7,
+          "participacion": 38.3
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 67966972,
+          "monto_nominal": 3520997532535.38,
+          "monto_real": 4614841991613.91,
+          "ticket_promedio_real": 67898.3,
+          "var_ia_cantidad": 1.29,
+          "var_ia_monto_real": -3.6,
+          "participacion": 38.74
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 70480091,
+          "monto_nominal": 3594035871470.06,
+          "monto_real": 4622738622852.31,
+          "ticket_promedio_real": 65589.28,
+          "var_ia_cantidad": 0.1,
+          "var_ia_monto_real": -5.05,
+          "participacion": 38.07
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 66748086,
+          "monto_nominal": 3277977586978.66,
+          "monto_real": 4129497130728.82,
+          "ticket_promedio_real": 61866.9,
+          "var_ia_cantidad": -4.15,
+          "var_ia_monto_real": -11.85,
+          "participacion": 36.7
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 74028724,
+          "monto_nominal": 3858732712670.05,
+          "monto_real": 4751822964284.01,
+          "ticket_promedio_real": 64188.91,
+          "var_ia_cantidad": -3.03,
+          "var_ia_monto_real": -9.59,
+          "participacion": 38.55
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 70219303,
+          "monto_nominal": 3699520284453.64,
+          "monto_real": 4444645242807.71,
+          "ticket_promedio_real": 63296.63,
+          "var_ia_cantidad": -6.42,
+          "var_ia_monto_real": -13.5,
+          "participacion": 35.71
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 72352819,
+          "monto_nominal": 4318924556743.09,
+          "monto_real": 5047475190702.85,
+          "ticket_promedio_real": 69761.97,
+          "var_ia_cantidad": -13.0,
+          "var_ia_monto_real": -17.94,
+          "participacion": 40.76
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 60841929,
+          "monto_nominal": 3438222154029.67,
+          "monto_real": 3904964901702.18,
+          "ticket_promedio_real": 64182.14,
+          "var_ia_cantidad": -10.38,
+          "var_ia_monto_real": -13.2,
+          "participacion": 37.2
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 60879602,
+          "monto_nominal": 3419283053621.75,
+          "monto_real": 3774008547991.33,
+          "ticket_promedio_real": 61991.35,
+          "var_ia_cantidad": -15.68,
+          "var_ia_monto_real": -21.1,
+          "participacion": 36.05
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 67628322,
+          "monto_nominal": 3863835269130.33,
+          "monto_real": 4124448539272.29,
+          "ticket_promedio_real": 60987.0,
+          "var_ia_cantidad": -16.49,
+          "var_ia_monto_real": -21.79,
+          "participacion": 36.22
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 63853251,
+          "monto_nominal": 3682876258411.75,
+          "monto_real": 3831660776375.33,
+          "ticket_promedio_real": 60007.29,
+          "var_ia_cantidad": -20.44,
+          "var_ia_monto_real": -26.05,
+          "participacion": 37.23
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 65840655,
+          "monto_nominal": 4033890388030.479,
+          "monto_real": 4110534305403.06,
+          "ticket_promedio_real": 62431.55,
+          "var_ia_cantidad": -20.59,
+          "var_ia_monto_real": -25.26,
+          "participacion": 35.37
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 62610326,
+          "monto_nominal": 3838197625930.329,
+          "monto_real": 3838197625930.33,
+          "ticket_promedio_real": 61302.95,
+          "var_ia_cantidad": -6.45,
+          "var_ia_monto_real": -15.26,
+          "participacion": 36.14
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjeta de credito por canal",
+      "metrica": "Debito Automatico",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 25904156,
+          "monto_nominal": 712853272657.6799,
+          "monto_real": 1276268240531.99,
+          "ticket_promedio_real": 49268.86,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 11.56
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 27681465,
+          "monto_nominal": 869881431427.5499,
+          "monto_real": 1494132205020.27,
+          "ticket_promedio_real": 53975.91,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.92
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 26635508,
+          "monto_nominal": 852671045271.6699,
+          "monto_real": 1415044612296.09,
+          "ticket_promedio_real": 53126.25,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.65
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 27051790,
+          "monto_nominal": 892776175298.01,
+          "monto_real": 1442649285739.7,
+          "ticket_promedio_real": 53329.16,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 11.93
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 26687125,
+          "monto_nominal": 935034247446.33,
+          "monto_real": 1475522153343.5,
+          "ticket_promedio_real": 55289.66,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 11.45
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 26891529,
+          "monto_nominal": 941659404549.25,
+          "monto_real": 1446910342050.01,
+          "ticket_promedio_real": 53805.43,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 10.78
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 25161827,
+          "monto_nominal": 925477610568.6099,
+          "monto_real": 1391434584071.0,
+          "ticket_promedio_real": 55299.43,
+          "var_ia_cantidad": -5.29,
+          "var_ia_monto_real": 24.74,
+          "participacion": 12.68
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 26013300,
+          "monto_nominal": 989967323696.27,
+          "monto_real": 1453509183774.4,
+          "ticket_promedio_real": 55875.62,
+          "var_ia_cantidad": -6.01,
+          "var_ia_monto_real": 13.29,
+          "participacion": 12.69
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 26371185,
+          "monto_nominal": 1033452700169.0,
+          "monto_real": 1463217100885.4,
+          "ticket_promedio_real": 55485.45,
+          "var_ia_cantidad": -1.8,
+          "var_ia_monto_real": 14.78,
+          "participacion": 11.76
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 26520508,
+          "monto_nominal": 1082575427048.11,
+          "monto_real": 1491019125357.37,
+          "ticket_promedio_real": 56221.36,
+          "var_ia_cantidad": -0.5,
+          "var_ia_monto_real": 20.61,
+          "participacion": 12.56
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 26594983,
+          "monto_nominal": 1140267448044.34,
+          "monto_real": 1547268675692.85,
+          "ticket_promedio_real": 58178.97,
+          "var_ia_cantidad": -3.59,
+          "var_ia_monto_real": 11.68,
+          "participacion": 11.6
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 25247130,
+          "monto_nominal": 1110804366238.98,
+          "monto_real": 1483552354570.47,
+          "ticket_promedio_real": 58761.23,
+          "var_ia_cantidad": -2.65,
+          "var_ia_monto_real": 14.3,
+          "participacion": 12.54
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 25810827,
+          "monto_nominal": 1146697046567.08,
+          "monto_real": 1502933652539.91,
+          "ticket_promedio_real": 58228.81,
+          "var_ia_cantidad": -0.36,
+          "var_ia_monto_real": 17.76,
+          "participacion": 12.62
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 25702913,
+          "monto_nominal": 1228209059380.64,
+          "monto_real": 1579753140697.97,
+          "ticket_promedio_real": 61462.03,
+          "var_ia_cantidad": -7.15,
+          "var_ia_monto_real": 5.73,
+          "participacion": 13.01
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 24843613,
+          "monto_nominal": 1165565303772.62,
+          "monto_real": 1468343955958.06,
+          "ticket_promedio_real": 59103.48,
+          "var_ia_cantidad": -6.73,
+          "var_ia_monto_real": 3.77,
+          "participacion": 13.05
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 26922385,
+          "monto_nominal": 1357400786529.82,
+          "monto_real": 1671566472585.87,
+          "ticket_promedio_real": 62088.35,
+          "var_ia_cantidad": -0.48,
+          "var_ia_monto_real": 15.87,
+          "participacion": 13.56
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 24735530,
+          "monto_nominal": 1261112140147.27,
+          "monto_real": 1515114296820.36,
+          "ticket_promedio_real": 61252.55,
+          "var_ia_cantidad": -7.31,
+          "var_ia_monto_real": 2.68,
+          "participacion": 12.17
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 24477103,
+          "monto_nominal": 1236954049681.03,
+          "monto_real": 1445613322431.51,
+          "ticket_promedio_real": 59059.82,
+          "var_ia_cantidad": -8.98,
+          "var_ia_monto_real": -0.09,
+          "participacion": 11.67
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 23752201,
+          "monto_nominal": 1158639140586.72,
+          "monto_real": 1315925782290.35,
+          "ticket_promedio_real": 55402.27,
+          "var_ia_cantidad": -5.6,
+          "var_ia_monto_real": -5.43,
+          "participacion": 12.54
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 24549000,
+          "monto_nominal": 1322873660604.54,
+          "monto_real": 1460112083363.78,
+          "ticket_promedio_real": 59477.46,
+          "var_ia_cantidad": -5.63,
+          "var_ia_monto_real": 0.45,
+          "participacion": 13.95
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 25734803,
+          "monto_nominal": 1442970425716.55,
+          "monto_real": 1540297877631.64,
+          "ticket_promedio_real": 59852.72,
+          "var_ia_cantidad": -2.41,
+          "var_ia_monto_real": 5.27,
+          "participacion": 13.52
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 23672609,
+          "monto_nominal": 1341493223940.34,
+          "monto_real": 1395688208694.31,
+          "ticket_promedio_real": 58957.94,
+          "var_ia_cantidad": -10.74,
+          "var_ia_monto_real": -6.39,
+          "participacion": 13.56
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 24660565,
+          "monto_nominal": 1470988824898.71,
+          "monto_real": 1498937612571.79,
+          "ticket_promedio_real": 60782.78,
+          "var_ia_cantidad": -7.27,
+          "var_ia_monto_real": -3.12,
+          "participacion": 12.9
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 24420037,
+          "monto_nominal": 1471840329074.08,
+          "monto_real": 1471840329074.08,
+          "ticket_promedio_real": 60271.83,
+          "var_ia_cantidad": -3.28,
+          "var_ia_monto_real": -0.79,
+          "participacion": 13.86
+        }
+      ]
+    },
+    {
+      "pestania": "Tarjeta de credito por canal",
+      "metrica": "Otros",
+      "moneda": "ARS",
+      "mes_corte": "2026-06",
+      "periodos": [
+        {
+          "mes": "2024-07",
+          "cantidad": 16978341,
+          "monto_nominal": 814914328296.7098,
+          "monto_real": 1458994881347.75,
+          "ticket_promedio_real": 85932.71,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 13.22
+        },
+        {
+          "mes": "2024-08",
+          "cantidad": 17418942,
+          "monto_nominal": 851213327864.98,
+          "monto_real": 1462067358327.64,
+          "ticket_promedio_real": 83935.49,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.64
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 17249711,
+          "monto_nominal": 858784555785.3999,
+          "monto_real": 1425190248368.34,
+          "ticket_promedio_real": 82621.11,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.74
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 17894571,
+          "monto_nominal": 955726605163.3,
+          "monto_real": 1544371750109.73,
+          "ticket_promedio_real": 86303.93,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.77
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 17717134,
+          "monto_nominal": 996817858892.5001,
+          "monto_real": 1573019210431.37,
+          "ticket_promedio_real": 88785.2,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.21
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 18439777,
+          "monto_nominal": 1108407410572.29,
+          "monto_real": 1703127625353.67,
+          "ticket_promedio_real": 92361.62,
+          "var_ia_cantidad": null,
+          "var_ia_monto_real": null,
+          "participacion": 12.69
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 16160634,
+          "monto_nominal": 948689060427.6702,
+          "monto_real": 1426332472157.65,
+          "ticket_promedio_real": 88259.69,
+          "var_ia_cantidad": 2.53,
+          "var_ia_monto_real": 12.66,
+          "participacion": 13.0
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 16476709,
+          "monto_nominal": 991593927924.66,
+          "monto_real": 1455897428444.44,
+          "ticket_promedio_real": 88360.94,
+          "var_ia_cantidad": -0.34,
+          "var_ia_monto_real": 12.83,
+          "participacion": 12.71
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 19928688,
+          "monto_nominal": 1107240197380.56,
+          "monto_real": 1567689349817.39,
+          "ticket_promedio_real": 78664.96,
+          "var_ia_cantidad": 15.33,
+          "var_ia_monto_real": 19.6,
+          "participacion": 12.6
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 22767754,
+          "monto_nominal": 1105966366998.13,
+          "monto_real": 1523235207446.6,
+          "ticket_promedio_real": 66903.18,
+          "var_ia_cantidad": 37.89,
+          "var_ia_monto_real": 28.32,
+          "participacion": 12.83
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 22088649,
+          "monto_nominal": 1211401667828.71,
+          "monto_real": 1643793179861.57,
+          "ticket_promedio_real": 74418.0,
+          "var_ia_cantidad": 30.45,
+          "var_ia_monto_real": 21.44,
+          "participacion": 12.32
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 18249149,
+          "monto_nominal": 1168218617205.53,
+          "monto_real": 1560232866275.45,
+          "ticket_promedio_real": 85496.2,
+          "var_ia_cantidad": 6.89,
+          "var_ia_monto_real": 12.08,
+          "participacion": 13.19
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 17125009,
+          "monto_nominal": 1135571703462.01,
+          "monto_real": 1488352074433.72,
+          "ticket_promedio_real": 86911.02,
+          "var_ia_cantidad": 0.86,
+          "var_ia_monto_real": 2.01,
+          "participacion": 12.49
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 17542838,
+          "monto_nominal": 1141563166664.32,
+          "monto_real": 1468307031339.18,
+          "ticket_promedio_real": 83698.37,
+          "var_ia_cantidad": 0.71,
+          "var_ia_monto_real": 0.43,
+          "participacion": 12.09
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 17098427,
+          "monto_nominal": 1110127042023.89,
+          "monto_real": 1398504508692.35,
+          "ticket_promedio_real": 81791.41,
+          "var_ia_cantidad": -0.88,
+          "var_ia_monto_real": -1.87,
+          "participacion": 12.43
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 18155105,
+          "monto_nominal": 1231768870991.32,
+          "monto_real": 1516857487601.59,
+          "ticket_promedio_real": 83549.92,
+          "var_ia_cantidad": 1.46,
+          "var_ia_monto_real": -1.78,
+          "participacion": 12.31
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 17494439,
+          "monto_nominal": 1211894638210.31,
+          "monto_real": 1455983836915.53,
+          "ticket_promedio_real": 83225.52,
+          "var_ia_cantidad": -1.26,
+          "var_ia_monto_real": -7.44,
+          "participacion": 11.7
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 17429241,
+          "monto_nominal": 1295317520527.31,
+          "monto_real": 1513822008938.89,
+          "ticket_promedio_real": 86855.3,
+          "var_ia_cantidad": -5.48,
+          "var_ia_monto_real": -11.12,
+          "participacion": 12.23
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 15467151,
+          "monto_nominal": 1101878795056.2,
+          "monto_real": 1251460152329.42,
+          "ticket_promedio_real": 80910.84,
+          "var_ia_cantidad": -4.29,
+          "var_ia_monto_real": -12.26,
+          "participacion": 11.92
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 15612933,
+          "monto_nominal": 1111662447610.12,
+          "monto_real": 1226989258849.96,
+          "ticket_promedio_real": 78588.01,
+          "var_ia_cantidad": -5.24,
+          "var_ia_monto_real": -15.72,
+          "participacion": 11.72
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 16303850,
+          "monto_nominal": 1204444269039.55,
+          "monto_real": 1285683281004.16,
+          "ticket_promedio_real": 78857.65,
+          "var_ia_cantidad": -18.19,
+          "var_ia_monto_real": -17.99,
+          "participacion": 11.29
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 15586132,
+          "monto_nominal": 1122821437731.43,
+          "monto_real": 1168182300994.34,
+          "ticket_promedio_real": 74950.11,
+          "var_ia_cantidad": -31.54,
+          "var_ia_monto_real": -23.31,
+          "participacion": 11.35
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 16349657,
+          "monto_nominal": 1251369457171.39,
+          "monto_real": 1275145476857.65,
+          "ticket_promedio_real": 77992.19,
+          "var_ia_cantidad": -25.98,
+          "var_ia_monto_real": -22.43,
+          "participacion": 10.97
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 15912572,
+          "monto_nominal": 1222049058932.58,
+          "monto_real": 1222049058932.58,
+          "ticket_promedio_real": 76797.71,
+          "var_ia_cantidad": -12.8,
+          "var_ia_monto_real": -21.68,
+          "participacion": 11.51
+        }
+      ]
+    },
+    {
+      "pestania": "Transferencias de fondos",
+      "metrica": "Transferencias inmediatas \"push\"",
+      "moneda": "ARS",
+      "mes_corte": "2026-07",
+      "periodos": [
+        {
+          "mes": "2024-08",
+          "cantidad": 535530064,
+          "monto_nominal": 43602687647186.47,
+          "monto_real": 74893172201856.17,
+          "ticket_promedio_real": 139848.68,
+          "var_ia_cantidad": 78.51,
+          "var_ia_monto_real": 22.23,
+          "participacion": null
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 525651264,
+          "monto_nominal": 43387136888132.72,
+          "monto_real": 72002837010777.38,
+          "ticket_promedio_real": 136978.34,
+          "var_ia_cantidad": 63.76,
+          "var_ia_monto_real": 20.04,
+          "participacion": null
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 557937123,
+          "monto_nominal": 48577277649076.06,
+          "monto_real": 78496690259712.22,
+          "ticket_promedio_real": 140690.93,
+          "var_ia_cantidad": 56.18,
+          "var_ia_monto_real": 13.53,
+          "participacion": null
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 556811684,
+          "monto_nominal": 48362033402531.57,
+          "monto_real": 76317259887605.97,
+          "ticket_promedio_real": 137061.17,
+          "var_ia_cantidad": 48.15,
+          "var_ia_monto_real": 17.07,
+          "participacion": null
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 603340161,
+          "monto_nominal": 54153499104048.8,
+          "monto_real": 83209765158508.38,
+          "ticket_promedio_real": 137915.18,
+          "var_ia_cantidad": 42.96,
+          "var_ia_monto_real": 28.0,
+          "participacion": null
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 544061433,
+          "monto_nominal": 51506655462745.18,
+          "monto_real": 77439087561135.4,
+          "ticket_promedio_real": 142335.19,
+          "var_ia_cantidad": 41.58,
+          "var_ia_monto_real": 45.82,
+          "participacion": null
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 518230519,
+          "monto_nominal": 49604007208784.22,
+          "monto_real": 72830565518847.45,
+          "ticket_promedio_real": 140537.01,
+          "var_ia_cantidad": 33.04,
+          "var_ia_monto_real": 46.96,
+          "participacion": null
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 582628789,
+          "monto_nominal": 53564565950199.266,
+          "monto_real": 75839551134772.31,
+          "ticket_promedio_real": 130167.87,
+          "var_ia_cantidad": 27.99,
+          "var_ia_monto_real": 40.12,
+          "participacion": null
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 576016037,
+          "monto_nominal": 56423215649996.21,
+          "monto_real": 77711068943899.86,
+          "ticket_promedio_real": 134911.29,
+          "var_ia_cantidad": 28.68,
+          "var_ia_monto_real": 36.14,
+          "participacion": null
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 600339474,
+          "monto_nominal": 58214879461295.016,
+          "monto_real": 78993800624741.2,
+          "ticket_promedio_real": 131581.89,
+          "var_ia_cantidad": 22.37,
+          "var_ia_monto_real": 13.68,
+          "participacion": null
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 591554889,
+          "monto_nominal": 60283040331860.92,
+          "monto_real": 80511968752703.25,
+          "ticket_promedio_real": 136102.28,
+          "var_ia_cantidad": 18.35,
+          "var_ia_monto_real": 20.21,
+          "participacion": null
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 635853384,
+          "monto_nominal": 69224890424814.47,
+          "monto_real": 90730518339008.72,
+          "ticket_promedio_real": 142690.94,
+          "var_ia_cantidad": 21.5,
+          "var_ia_monto_real": 17.34,
+          "participacion": null
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 647744702,
+          "monto_nominal": 68118215723351.45,
+          "monto_real": 87615348873889.33,
+          "ticket_promedio_real": 135262.16,
+          "var_ia_cantidad": 20.95,
+          "var_ia_monto_real": 16.99,
+          "participacion": null
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 649246629,
+          "monto_nominal": 70183308411357.16,
+          "monto_real": 88414811578039.55,
+          "ticket_promedio_real": 136180.62,
+          "var_ia_cantidad": 23.51,
+          "var_ia_monto_real": 22.79,
+          "participacion": null
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 690284340,
+          "monto_nominal": 78798265936241.94,
+          "monto_real": 97035850239676.84,
+          "ticket_promedio_real": 140573.74,
+          "var_ia_cantidad": 23.72,
+          "var_ia_monto_real": 23.62,
+          "participacion": null
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 666275683,
+          "monto_nominal": 70117591965197.06,
+          "monto_real": 84240062927853.6,
+          "ticket_promedio_real": 126434.24,
+          "var_ia_cantidad": 19.66,
+          "var_ia_monto_real": 10.38,
+          "participacion": null
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 752928218,
+          "monto_nominal": 88609660552629.73,
+          "monto_real": 103557044680881.28,
+          "ticket_promedio_real": 137539.07,
+          "var_ia_cantidad": 24.79,
+          "var_ia_monto_real": 24.45,
+          "participacion": null
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 675932007,
+          "monto_nominal": 81175710249813.03,
+          "monto_real": 92195409486483.8,
+          "ticket_promedio_real": 136397.46,
+          "var_ia_cantidad": 24.24,
+          "var_ia_monto_real": 19.06,
+          "participacion": null
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 650272102,
+          "monto_nominal": 74803871472861.69,
+          "monto_real": 82564223532883.08,
+          "ticket_promedio_real": 126968.73,
+          "var_ia_cantidad": 25.48,
+          "var_ia_monto_real": 13.36,
+          "participacion": null
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 731493738,
+          "monto_nominal": 82160197478863.1,
+          "monto_real": 87701851366528.78,
+          "ticket_promedio_real": 119894.19,
+          "var_ia_cantidad": 25.55,
+          "var_ia_monto_real": 15.64,
+          "participacion": null
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 725652561,
+          "monto_nominal": 85321337682797.83,
+          "monto_real": 88768234403845.17,
+          "ticket_promedio_real": 122328.84,
+          "var_ia_cantidad": 25.98,
+          "var_ia_monto_real": 14.23,
+          "participacion": null
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 759904019,
+          "monto_nominal": 87507925476716.44,
+          "monto_real": 89170576060774.05,
+          "ticket_promedio_real": 117344.52,
+          "var_ia_cantidad": 26.58,
+          "var_ia_monto_real": 12.88,
+          "participacion": null
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 762861553,
+          "monto_nominal": 92740223519628.3,
+          "monto_real": 92740223519628.3,
+          "ticket_promedio_real": 121568.88,
+          "var_ia_cantidad": 28.96,
+          "var_ia_monto_real": 15.19,
+          "participacion": null
+        },
+        {
+          "mes": "2026-07",
+          "cantidad": 777204649,
+          "monto_nominal": 99540963089011.06,
+          "monto_real": 97493597540657.27,
+          "ticket_promedio_real": 125441.35,
+          "var_ia_cantidad": 22.23,
+          "var_ia_monto_real": 7.45,
+          "participacion": null
+        }
+      ]
+    },
+    {
+      "pestania": "Transferencias de fondos",
+      "metrica": "Pagos con transferencia interoperables",
+      "moneda": "ARS",
+      "mes_corte": "2026-07",
+      "periodos": [
+        {
+          "mes": "2024-08",
+          "cantidad": 48988353,
+          "monto_nominal": 662919673115.7701,
+          "monto_real": 1138649012565.2,
+          "ticket_promedio_real": 23243.26,
+          "var_ia_cantidad": 63.72,
+          "var_ia_monto_real": -10.54,
+          "participacion": null
+        },
+        {
+          "mes": "2024-09",
+          "cantidad": 50631459,
+          "monto_nominal": 684539416244.5298,
+          "monto_real": 1136022875682.98,
+          "ticket_promedio_real": 22437.1,
+          "var_ia_cantidad": 57.85,
+          "var_ia_monto_real": -9.91,
+          "participacion": null
+        },
+        {
+          "mes": "2024-10",
+          "cantidad": 56429261,
+          "monto_nominal": 791346213543.1,
+          "monto_real": 1278747217195.49,
+          "ticket_promedio_real": 22661.07,
+          "var_ia_cantidad": 62.39,
+          "var_ia_monto_real": -3.91,
+          "participacion": null
+        },
+        {
+          "mes": "2024-11",
+          "cantidad": 59621416,
+          "monto_nominal": 882840201742.2499,
+          "monto_real": 1393157821855.83,
+          "ticket_promedio_real": 23366.73,
+          "var_ia_cantidad": 61.45,
+          "var_ia_monto_real": 6.22,
+          "participacion": null
+        },
+        {
+          "mes": "2024-12",
+          "cantidad": 66933164,
+          "monto_nominal": 1152350899229.4866,
+          "monto_real": 1770649160100.4,
+          "ticket_promedio_real": 26453.99,
+          "var_ia_cantidad": 57.96,
+          "var_ia_monto_real": 23.09,
+          "participacion": null
+        },
+        {
+          "mes": "2025-01",
+          "cantidad": 62955137,
+          "monto_nominal": 1064872162250.9199,
+          "monto_real": 1601011129010.5,
+          "ticket_promedio_real": 25430.98,
+          "var_ia_cantidad": 59.22,
+          "var_ia_monto_real": 44.78,
+          "participacion": null
+        },
+        {
+          "mes": "2025-02",
+          "cantidad": 63011053,
+          "monto_nominal": 1054337018480.8502,
+          "monto_real": 1548019315863.21,
+          "ticket_promedio_real": 24567.42,
+          "var_ia_cantidad": 67.49,
+          "var_ia_monto_real": 74.97,
+          "participacion": null
+        },
+        {
+          "mes": "2025-03",
+          "cantidad": 61967728,
+          "monto_nominal": 1036345687084.88,
+          "monto_real": 1467313145075.19,
+          "ticket_promedio_real": 23678.67,
+          "var_ia_cantidad": 45.51,
+          "var_ia_monto_real": 52.52,
+          "participacion": null
+        },
+        {
+          "mes": "2025-04",
+          "cantidad": 62059995,
+          "monto_nominal": 1036919179913.05,
+          "monto_real": 1428137282698.11,
+          "ticket_promedio_real": 23012.2,
+          "var_ia_cantidad": 53.87,
+          "var_ia_monto_real": 65.1,
+          "participacion": null
+        },
+        {
+          "mes": "2025-05",
+          "cantidad": 63339372,
+          "monto_nominal": 1157106642192.7598,
+          "monto_real": 1570118365626.95,
+          "ticket_promedio_real": 24788.98,
+          "var_ia_cantidad": 27.55,
+          "var_ia_monto_real": 54.41,
+          "participacion": null
+        },
+        {
+          "mes": "2025-06",
+          "cantidad": 62975079,
+          "monto_nominal": 1207487600233.2598,
+          "monto_real": 1612679178158.1,
+          "ticket_promedio_real": 25608.21,
+          "var_ia_cantidad": 18.76,
+          "var_ia_monto_real": 41.47,
+          "participacion": null
+        },
+        {
+          "mes": "2025-07",
+          "cantidad": 68444788,
+          "monto_nominal": 1346224916352.72,
+          "monto_real": 1764447494420.12,
+          "ticket_promedio_real": 25779.14,
+          "var_ia_cantidad": 30.49,
+          "var_ia_monto_real": 40.64,
+          "participacion": null
+        },
+        {
+          "mes": "2025-08",
+          "cantidad": 71440618,
+          "monto_nominal": 1391282121184.4502,
+          "monto_real": 1789501782087.83,
+          "ticket_promedio_real": 25048.8,
+          "var_ia_cantidad": 45.83,
+          "var_ia_monto_real": 57.16,
+          "participacion": null
+        },
+        {
+          "mes": "2025-09",
+          "cantidad": 72895143,
+          "monto_nominal": 1412866211272.5305,
+          "monto_real": 1779886167840.23,
+          "ticket_promedio_real": 24417.07,
+          "var_ia_cantidad": 43.97,
+          "var_ia_monto_real": 56.68,
+          "participacion": null
+        },
+        {
+          "mes": "2025-10",
+          "cantidad": 78776680,
+          "monto_nominal": 1551591288789.99,
+          "monto_real": 1910701690491.96,
+          "ticket_promedio_real": 24254.66,
+          "var_ia_cantidad": 39.6,
+          "var_ia_monto_real": 49.42,
+          "participacion": null
+        },
+        {
+          "mes": "2025-11",
+          "cantidad": 76990074,
+          "monto_nominal": 1588989032270.47,
+          "monto_real": 1909029279507.68,
+          "ticket_promedio_real": 24795.78,
+          "var_ia_cantidad": 29.13,
+          "var_ia_monto_real": 37.03,
+          "participacion": null
+        },
+        {
+          "mes": "2025-12",
+          "cantidad": 96377993,
+          "monto_nominal": 2236264998159.489,
+          "monto_real": 2613496010349.18,
+          "ticket_promedio_real": 27117.14,
+          "var_ia_cantidad": 43.99,
+          "var_ia_monto_real": 47.6,
+          "participacion": null
+        },
+        {
+          "mes": "2026-01",
+          "cantidad": 93256219,
+          "monto_nominal": 2139702809372.8098,
+          "monto_real": 2430170011231.41,
+          "ticket_promedio_real": 26059.07,
+          "var_ia_cantidad": 48.13,
+          "var_ia_monto_real": 51.79,
+          "participacion": null
+        },
+        {
+          "mes": "2026-02",
+          "cantidad": 89899374,
+          "monto_nominal": 2098617853608.4868,
+          "monto_real": 2316334036778.99,
+          "ticket_promedio_real": 25765.85,
+          "var_ia_cantidad": 42.67,
+          "var_ia_monto_real": 49.63,
+          "participacion": null
+        },
+        {
+          "mes": "2026-03",
+          "cantidad": 100799787,
+          "monto_nominal": 2301886336968.0156,
+          "monto_real": 2457147129415.66,
+          "ticket_promedio_real": 24376.51,
+          "var_ia_cantidad": 62.66,
+          "var_ia_monto_real": 67.46,
+          "participacion": null
+        },
+        {
+          "mes": "2026-04",
+          "cantidad": 100866267,
+          "monto_nominal": 2318591526717.6,
+          "monto_real": 2412260305805.46,
+          "ticket_promedio_real": 23915.43,
+          "var_ia_cantidad": 62.53,
+          "var_ia_monto_real": 68.91,
+          "participacion": null
+        },
+        {
+          "mes": "2026-05",
+          "cantidad": 103695356,
+          "monto_nominal": 2431279783654.898,
+          "monto_real": 2477474099544.34,
+          "ticket_promedio_real": 23891.85,
+          "var_ia_cantidad": 63.71,
+          "var_ia_monto_real": 57.79,
+          "participacion": null
+        },
+        {
+          "mes": "2026-06",
+          "cantidad": 109438373,
+          "monto_nominal": 2667359971738.871,
+          "monto_real": 2667359971738.87,
+          "ticket_promedio_real": 24373.17,
+          "var_ia_cantidad": 73.78,
+          "var_ia_monto_real": 65.4,
+          "participacion": null
+        },
+        {
+          "mes": "2026-07",
+          "cantidad": 116851034,
+          "monto_nominal": 3001134961519.2896,
+          "monto_real": 2939407405993.43,
+          "ticket_promedio_real": 25155.17,
+          "var_ia_cantidad": 70.72,
+          "var_ia_monto_real": 66.59,
+          "participacion": null
+        }
+      ]
+    }
+  ],
+  "resumen": {
+    "mes": "2026-06",
+    "tarjetas_ars": {
+      "monto_real": 16593842350356.58,
+      "cantidad": 383339176,
+      "ticket_promedio_real": 43287.62,
+      "var_ia_monto_real": -10.8
+    }
+  },
+  "validacion_pdf": [
+    {
+      "concepto": "Tarjetas de crédito — var. i.a. cantidad",
+      "valor_bcra": 1.6,
+      "valor_calculado": 1.57,
+      "delta_pp": 0.03,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Tarjetas de crédito — var. i.a. monto real",
+      "valor_bcra": -10.2,
+      "valor_calculado": -10.19,
+      "delta_pp": 0.01,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Tarjetas de débito — var. i.a. cantidad",
+      "valor_bcra": -6.9,
+      "valor_calculado": -6.94,
+      "delta_pp": 0.04,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Tarjetas de débito — var. i.a. monto real",
+      "valor_bcra": -13.4,
+      "valor_calculado": -13.41,
+      "delta_pp": 0.01,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Transferencias inmediatas \"push\" — var. i.a. cantidad",
+      "valor_bcra": 22.2,
+      "valor_calculado": 22.23,
+      "delta_pp": 0.03,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Transferencias inmediatas \"push\" — var. i.a. monto real",
+      "valor_bcra": 7.4,
+      "valor_calculado": 7.45,
+      "delta_pp": 0.05,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Pagos con transferencia interoperables — var. i.a. cantidad",
+      "valor_bcra": 70.7,
+      "valor_calculado": 70.72,
+      "delta_pp": 0.02,
+      "dentro_de_tolerancia": true
+    },
+    {
+      "concepto": "Pagos con transferencia interoperables — var. i.a. monto real",
+      "valor_bcra": 66.6,
+      "valor_calculado": 66.59,
+      "delta_pp": 0.01,
+      "dentro_de_tolerancia": true
+    }
+  ],
+  "notas": [
+    "Serie en moneda extranjera excluida de la deflactacion: Tarjetas de débito (dólares). El monto nominal esta en dolares (nota 4 del informe); aplicarle el IPC argentino produciria una cifra sin significado. Se publica solo el nominal en USD."
+  ],
+  "advertencias": [],
+  "errores": [],
+  "requiere_revision_humana": false,
+  "puntos_de_firma": [
+    "publicacion_dashboard"
+  ],
+  "descarga": {
+    "xlsx": "168842 bytes, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "url_xlsx": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/series-informe-mensual-pagos-minoristas-2026-07.xlsx",
+    "pdf": "542928 bytes, application/pdf",
+    "url_pdf": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/informe-mensual-pagos-minoristas-2026-07.pdf"
+  }
+}

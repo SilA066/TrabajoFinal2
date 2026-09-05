@@ -1,0 +1,34 @@
+{
+  "estado": "error",
+  "edicion": "2026-08",
+  "generado_utc": "2026-09-05T06:38:30Z",
+  "corte": {
+    "mes_analisis": "2026-08",
+    "mes_corte_tarjetas": null,
+    "fuente_corte": null,
+    "coincide_con_excel": null
+  },
+  "deflactor": {
+    "indice": "IPC Nacional Nivel General (INDEC)",
+    "mes_base": null,
+    "valor_base": null
+  },
+  "series": [],
+  "resumen": null,
+  "validacion_pdf": [],
+  "notas": [],
+  "advertencias": [],
+  "errores": [
+    "Descarga fallida. XLSX: no se pudo descargar https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/series-informe-mensual-pagos-minoristas-2026-08.xlsx (HTTPError). PDF: no se pudo descargar https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/informe-mensual-pagos-minoristas-2026-08.pdf (HTTPError) | no se pudo descargar https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/informe-pagos-minoristas-2026-08.pdf (HTTPError). Se probaron los dos patrones de URL conocidos del BCRA. La edicion probablemente no esta publicada."
+  ],
+  "requiere_revision_humana": true,
+  "puntos_de_firma": [
+    "publicacion_dashboard"
+  ],
+  "descarga": {
+    "xlsx": "no se pudo descargar https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/series-informe-mensual-pagos-minoristas-2026-08.xlsx (HTTPError)",
+    "url_xlsx": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/series-informe-mensual-pagos-minoristas-2026-08.xlsx",
+    "pdf": "no se pudo descargar https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/informe-mensual-pagos-minoristas-2026-08.pdf (HTTPError) | no se pudo descargar https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/informe-pagos-minoristas-2026-08.pdf (HTTPError)",
+    "url_pdf": null
+  }
+}
