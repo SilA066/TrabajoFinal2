@@ -11,7 +11,12 @@
       "edicion": "julio 2026",
       "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_2642C82F62AE.pdf",
       "aporta": "variaciones mensuales e interanuales ago-2025 a jul-2026"
-    }
+    },
+    {
+      "edicion": "agosto 2026",
+      "url": "PEGAR_URL_DEL_INFORME_DE_PRENSA",
+      "aporta": "variacion mensual ago-2026"
+      }
   ],
   "var_mensual_pct": {
     "2024-08": 4.2, "2024-09": 3.5, "2024-10": 2.7, "2024-11": 2.4, "2024-12": 2.7,
